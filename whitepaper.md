@@ -152,6 +152,9 @@ Build a sustainable growth token with real-world adoption, starting with the onl
 - Leverage existing resources and connections to onboard additional small online casinos.
 - Scale the ecosystem to become the industry’s standard infrastructure token.
 
+### Future Developments
+- Introduce GameFi P2P features (e.g., Tetris battle), where users compete and pay GDT, with winners receiving 80% of the prize pool.
+
 ---
 
 ## 9. Security, Compliance & Regulations <a name="9-security-compliance--regulations"></a>
