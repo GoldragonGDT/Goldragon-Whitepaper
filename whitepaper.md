@@ -22,7 +22,7 @@
 
 ### Our Solution
 Goldragon & GDT offers a sustainable token model that integrates:
-- An AI Hedging Bot generating stable profits (9-13% monthly) and reinvesting those profits to support GDT’s price.
+- An AI Hedging Bot generating stable profits and reinvesting those profits to support GDT’s price.
 - Knights Table, a blockchainized online casino, where transparency of liquidity replaces expensive marketing spend.
 
 This creates a circular ecosystem that incentivizes long-term holding and real-world adoption.
