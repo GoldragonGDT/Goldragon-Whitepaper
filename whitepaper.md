@@ -42,7 +42,7 @@ This creates a circular ecosystem that incentivizes long-term holding and real-w
     - Flying Dragon
     - Warrior Defender
     - Diamond Combo
-- **Innovation (2023)**: Introduced **Aionis**, an AI-powered hedging bot, to provide stable returns and support the GDT ecosystem.
+- **Innovation (2024)**: Introduced **Aionis**, an AI-powered hedging bot, to provide stable returns and support the GDT ecosystem.
 
 ---
 
