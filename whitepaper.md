@@ -84,14 +84,9 @@ Build a sustainable growth token with real-world adoption, starting with the onl
 - Aionis generates profits by employing hedging strategies on global platforms.
 
 ### Profit Allocation Strategies
-- Plan A:
-  - 80% of profits are reinvested into GDT
-  - 20% are allocated as GDCP (Goldragon Community Points) for use in Knights Table or community events
-- Plan B:
-  - 60% of profits are withdrawable
-  - 20% are reinvested into GDT
-  - 20% are allocated as GDCP
-  - Post-listing: The 60% is converted to GDT (with no vesting period), while 20% remains locked for one year
+ - 70% of profits are Diamond Token
+  - 30% are reinvested into GDT following Presales Vesting 1- 8 months
+  - Post-listing: The 70% is converted to GDT (with no vesting period), while 30% remains locked for one year
 
 ### Risk Management
 - Aionis stops trading if both platform account balances fall beyond a -5% variance threshold.
